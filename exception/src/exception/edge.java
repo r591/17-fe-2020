@@ -3,6 +3,7 @@ package exception;
 public class edge {
 	public static void main(String[] args) {
 		
+		System.out.println("agai push code");
 		System.out.println("hi");
 		int i;
 		for(i=2;i<10;i++)
